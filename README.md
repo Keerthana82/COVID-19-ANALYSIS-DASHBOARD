@@ -4,15 +4,7 @@
 
 This project offers a COVID-19 Dashboard Analysis using Power BI. The dashboard provides insights into infection rates, mortality rates, testing data, vaccination progress, and more related to the pandemic. It aims to facilitate informed decision-making regarding public health policies and strategies.
 
-## Features
 
-- Interactive Visualizations
-- Infection Analysis
-- Mortality Rates
-- Testing Data
-- Vaccination Progress
-- Data Filtering
-- Drill-down Capability
 
 ## Features
 
